@@ -32,30 +32,30 @@ nav{
   }
  /* CSS FOR MAINPAGE */
  /*   */
-.eat-tog {
+.calc-sec {
   padding: 20px;
   display: flex;
   justify-content:space-between;
 }
 
-.eat-tog  img {
+.calc-sec  img {
   width: 800px;
   height: auto;
   padding: 60px;
 }
 
-.tog {
+.cal {
   /* width: 100vw; */
   text-align: center;
   padding-top: 60px;
 
 }
-.tog h2 {
-  color: orange;
+.cal h2 {
+  color: #334CFF;
   size: 20px;
 }
 
-.tog  p {
+.cal  p {
   font-size: 1.3rem;
   padding: 20px 0px;
   margin-right: 60px;

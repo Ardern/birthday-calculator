@@ -14,40 +14,43 @@ nav{
   nav ul{
     float: right;
     margin-right: 30px;
+    
   }
   nav ul li{
     display: inline-block;
     line-height: 80px;
     margin: 0 5px;
+    
   }
   nav ul li a{
     color: white;
     font-size: 17px;
     padding: 7px 13px;
     border-radius: 3px;
+  
   }
   a.active,a:hover{
     background: #33FF39;
     transition: .5s;
   }
  /* CSS FOR MAINPAGE */
- /*   */
 .calc-sec {
   padding: 20px;
   display: flex;
   justify-content:space-between;
+  width: 100%;
 }
 
 .calc-sec  img {
-  width: 800px;
+  width: 50%;
   height: auto;
   padding: 60px;
 }
 
 .cal {
-  /* width: 100vw; */
   text-align: center;
   padding-top: 60px;
+  width: 50%;
 
 }
 .cal h2 {

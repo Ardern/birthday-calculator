@@ -37,13 +37,12 @@ nav{
 .calc-sec {
   padding: 20px;
   display: flex;
-  flex-direction: column;
   justify-content:space-between;
   width: 100%;
 }
 
-.calc-sec  img {
-  width: 50%;
+.calim img {
+  width: 100%;
   height: auto;
   padding: 60px;
 }
@@ -52,7 +51,6 @@ nav{
   text-align: center;
   padding-top: 60px;
   width: 50%;
-
 }
 .cal h2 {
   color: #334CFF;

@@ -64,14 +64,31 @@ nav{
 }
 .calculator {
   width: 50%;
-  height: 100px;
+  height: 150px;
   display: flex;
   align-items: center;
   flex-direction: column;
   margin-left: 170px;
-  background-color: #33FF39;
+  background-color: blue;
   border-radius: 8%;
+  justify-content: space-between;
 }
 #bday {
-  margin-top: 20px;
+  width: 150px;
+  height: auto;
+  margin-top: 25px;
+  background-color:#33FF39;
+  border-radius: 25%;
+}
+.gender-select {
+  width: 100px;
+  height: auto;
+  background-color: #33FF39;
+}
+#check-name {
+  width: 150px;
+  height: auto;
+  margin-bottom: 20px;
+  background-color: #33FF39;
+  border-radius: 25%;
 }

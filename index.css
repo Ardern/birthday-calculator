@@ -39,6 +39,7 @@ nav{
   display: flex;
   justify-content:space-between;
   width: 100%;
+  background-color: #b3ffff;
 }
 
 .calim img {

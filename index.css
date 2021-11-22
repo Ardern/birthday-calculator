@@ -70,5 +70,8 @@ nav{
   flex-direction: column;
   margin-left: 170px;
   background-color: #33FF39;
-  border-radius: 50%;
+  border-radius: 8%;
+}
+#bday {
+  margin-top: 20px;
 }

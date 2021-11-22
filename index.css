@@ -1,6 +1,6 @@
 /* CODE FOR NAVBAR  */
 nav{
-    background: #334CFF;
+    background: #808080;
     height: 70px;
     width: 100%;
   }
@@ -54,7 +54,7 @@ nav{
   width: 50%;
 }
 .cal h2 {
-  color: #334CFF;
+  color: #808080;
   size: 20px;
 }
 
@@ -70,7 +70,7 @@ nav{
   align-items: center;
   flex-direction: column;
   margin-left: 170px;
-  background-color: blue;
+  background-color: #808080;
   border-radius: 8%;
   justify-content: space-between;
 }
@@ -94,9 +94,12 @@ nav{
   border-radius: 25%;
 }
 .footer {
-  background-color: blue;
+  background-color: #808080;
   display: flex;
   flex-direction: row;
   width: 100%;
   height: 100px;
+}
+.footer p {
+  
 }
